@@ -1,4 +1,4 @@
-# ElasticsearchInAction
+# Elasticsearch In Action
 
 Notes from book
 
